@@ -24,12 +24,13 @@ I've already practiced coding by solving problems in Codewars, a little bit, and
 Trying to become a <!--:poop:-->cod(d)er \:\)
 
 ## Skills
-\#  |   name    |   level
---: |   :--:    |   :--
-1   |   html    |   very beginner
-3   |   css     |   very beginner
-4   |   js      |   very beginner
-5   |   git     |   very beginner
+
+| \#   |   name  | level         |
+| ---: |  :---:  | :---          |
+| 1    |  html   | very beginner |
+| 3    |  css    | very beginner |
+| 4    |  js     | very beginner |
+| 5    |  git    | very beginner |
 
 ## Code Examples
 My solution of 7kyu Kata in [Codewars](https://www.codewars.com/kata/55908aad6620c066bc00002a):
