@@ -1,22 +1,22 @@
-# [Sakhapov Georgyi](#sakhapov-georgyi)
+# Sakhapov Georgyi
 ![Avatar](./avatarProCat.jpeg)
-> [!WARNING]
+<!-- > [!WARNING]
 > I don’t always test my code, but when I do, I do it in production :upside_down_face:
----
+--- -->
 
-## [Contact Information](#contact-information)
+## Contact Information
 * Location: Moscow, Russia
 * Email:    johotbutt@gmail.com
 * GitHub:   [Georgyii](https://github.com/Georgyii)
 * Discord:  [georgyii_2424](https://discordapp.com/users/1294002073024725094/)
 
-## [About Me](#about-me)
+## About Me
 I'm a beginner in programming. Newbie in RS-School. I'm really curious what exactly ***rolling scopes*** means.\
 I've already practiced coding by solving problems in **Codewars**, a little bit, and it's really interesting for me.\
 Trying to become a *cod(d)er* \:\) 
 > *Code is like humor. When you have to explain it, it’s bad. — Cory House*
 
-## [Skills](#skills)
+## Skills
 
 | \#   |   name  | level         |
 | ---: |  :---:  | :---          |
@@ -25,7 +25,7 @@ Trying to become a *cod(d)er* \:\)
 | 4    |  js     | very beginner |
 | 5    |  git    | very beginner |
 
-## [Code Examples](#code-examples)
+## Code Examples
 My solution of 7kyu Kata in [**Codewars**](https://www.codewars.com/kata/55908aad6620c066bc00002a "7kyu task"):
 ```
 function XO(str) {
@@ -45,16 +45,16 @@ function XO(str) {
 }
 ```
 
-## [Experience](#experience)
+## Experience
 As it's recommended in the task, here is link for my [**CV project**](https://github.com/Georgyii/rsschool-cv "cv project")
 
-## [Education](#education)
+## Education
 As a preparing for RS-school I've done Code basics trial coursers:
 * HTML
 * CSS
 * JavaScript
 
-## [English Language](#english-language)
+## English Language
 My English common level is Elementary, partly it can be Intermediate
 
 [&uarr; *back to top* &uarr;](#sakhapov-georgyi)
