@@ -76,12 +76,7 @@ body {
   list-style: none;
   padding: 0;
   margin: 0;
-}
-
-@media (max-width: 650px) {
-  .nav-list {
-    flex-wrap: wrap;
-  }
+  flex-wrap: wrap;
 }
 
 .nav-link {
