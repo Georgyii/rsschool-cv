@@ -1,5 +1,5 @@
 # Sakhapov Georgyi
-![Avatar](./avatarProCat.jpeg)
+![Avatar](./assets/avatarProCat.jpeg)
 <!-- > [!WARNING]
 > I don’t always test my code, but when I do, I do it in production :upside_down_face:
 --- -->
