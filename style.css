@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: calc(10px + 0.5vw);
+}
+
+@media (max-width: 1024px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+body {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #160202;
+}
+
+.main {
+  flex: 1;
+  position: relative;
+}
+
+.wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 2%;
+}
+
+.icon {
+  display: inline-block;
+  width: 4rem;
+  height: 4rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+a:hover,
+a:focus {
+  opacity: 0.5;
+}
+
+body {
+  background-color: gray;
+}
+
+.header,
+.footer {
+  background-color: blueviolet;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 650px) {
+  .nav-list {
+    flex-wrap: wrap;
+  }
+}
+
+.nav-link {
+  display: block;
+  padding: 2rem 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  transform: scale(1.1);
+  transition: all 0.1s;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+  padding: 2rem;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.section-title {
+  font-size: 2em;
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 1.1em;
+  }
+}
+
+.profile {
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.profile-img {
+  border-radius: 180px;
+  transition: all 0.3s;
+}
+
+.profile-img:hover {
+  transform: scale(1.1);
+  transition: all 0.1s;
+}
+
+@media (max-width: 768px) {
+  .profile-img {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+.profile-title {
+  flex: 1;
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  font-size: 3.5em;
+  text-transform: uppercase;
+  font-weight: 900;
+  line-height: 1.3;
+  letter-spacing: 0.1em;
+}
+
+@media (max-width: 768px) {
+  .profile-title {
+    font-size: 1.5em;
+  }
+}
+
+table {
+  width: 50%;
+}
+
+th,
+td {
+  border: solid 1px black;
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
+
+.code {
+  background-color: #04011211;
+  color: #040112;
+  padding: 0.5rem 2rem;
+  overflow: auto;
+}
+
+.to-top-arrow-start {
+  position: absolute;
+  top: 120vh;
+  right: 1vw;
+  bottom: 0;
+}
+
+.to-top-arrow {
+  position: sticky;
+  top: 90vh;
+  background-image: url('./assets/arrow-circle-up-svgrepo-com.svg');
+  opacity: 0.4;
+}
+
+.to-top-arrow:hover {
+  opacity: 0.8;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.rsschool-logo {
+  background-image: url('./assets/rs-school-logo.svg');
+}
+
+.github-logo {
+  background-image: url('./assets/github-mark.svg');
+}
