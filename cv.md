@@ -21,9 +21,9 @@ Trying to become a *cod(d)er* \:\)
 | \#   |   name  | level         |
 | ---: |  :---:  | :---          |
 | 1    |  html   | very beginner |
-| 3    |  css    | very beginner |
-| 4    |  js     | very beginner |
-| 5    |  git    | very beginner |
+| 2    |  css    | very beginner |
+| 3    |  js     | very beginner |
+| 4    |  git    | very beginner |
 
 ## Code Examples
 My solution of 7kyu Kata in [**Codewars**](https://www.codewars.com/kata/55908aad6620c066bc00002a "7kyu task"):
